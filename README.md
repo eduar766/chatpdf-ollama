@@ -19,5 +19,5 @@ This project is a Streamlit application that allows you to interact with a PDF f
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/pdf-chat-llama.git
+   git clone git@github.com:eduar766/chatpdf-ollama.git
    cd pdf-chat-llama
